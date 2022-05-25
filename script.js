@@ -1,18 +1,18 @@
 /*============================Typing animation 1===============*/
 
 var typed = new Typed('.typing',{
-    strings:["Web Desaigner","Web Developer","Graphic Desaigner","SPSS Data Analyser","Video Editor"],
-    typeSpeed:50,
-    BackSpeed:60,
+    strings:["Web Desaigner","Web Developer","Graphic Desaigner","SPSS Data Analysis","Video Editor"],
+    typeSpeed:90,
+    BackSpeed:90,
     loop:true
 })
 
 /*============================Typing animation 2===============*/
 
 var typed = new Typed('.typing-2',{
-    strings:["Web Desaigner","Web Developer","Graphic Desaigner","SPSS Data Analyser","Video Editor"],
-    typeSpeed:50,
-    BackSpeed:60,
+    strings:["Web Desaigner","Web Developer","Graphic Desaigner","SPSS Data Analysis","Video Editor"],
+    typeSpeed:90,
+    BackSpeed:90,
     loop:true
 })
 
