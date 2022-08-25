@@ -103,4 +103,5 @@ function showSection(element)
             {
                 allSection[i].classList.toggle("open");
             }
+            
         }
