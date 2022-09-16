@@ -391,9 +391,10 @@ h3.my-profession
 }
 .home .home-img img
 {
-    border-radius: 5px;
+    border-radius: 0px 125px 0px 125px;
     margin: auto;
     height: 400px;
+    box-shadow: 10px 5px 10px 5px rgb(155, 156, 157);
 }
 /*About*/
 .about .about-content
